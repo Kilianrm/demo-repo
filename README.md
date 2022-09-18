@@ -1,7 +1,4 @@
 # Demo
 
-Some description.
+Repositories to test the operation of GitHub
 
-## Subheader
-
-Watch video tutorial
